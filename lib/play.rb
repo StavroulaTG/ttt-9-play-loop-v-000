@@ -43,7 +43,3 @@ play(board) = 9
   end
   turn(board)
 end
-
-
-
-
