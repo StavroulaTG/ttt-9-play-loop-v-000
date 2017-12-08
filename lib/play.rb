@@ -37,7 +37,7 @@ end
 
 # Define your play method below
 def play(board)
-play(board) = 9.times
+
   until 9.times do
     play(board)
   end
